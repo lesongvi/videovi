@@ -1,0 +1,15 @@
+.s101_page_headings,a.s101_page_headings:link,a.s101_page_headings:visited,a.s101_page_headings:active {
+color:#424242;
+text-transform:uppercase;
+font-size:32px;
+letter-spacing:1px;
+font-weight:normal;
+font-family:'Oswald';
+}
+.typogr_text,.s101_general_content {font-family:'Roboto';color:#666666;font-size:14px;line-height:18px;}
+.s101_content_titles,a.s101_content_titles:link,a.s101_content_titles:visited,a.s101_content_titles:active {color:#333333;font-weight:normal;font-size:18px;font-style:normal;text-decoration:none;margin-bottom:6px;font-family:'Roboto';}
+#s101_top-nav-element,a.s101_top-nav-element:link,a.s101_top-nav-element:visited,a.s101_top-nav-element:active,#s101_top-nav ul li a {padding-left:2px;padding-right:2px;text-align:center;color:#E2E2E2;font-family:'Roboto Condensed';font-size:19px;text-transform:uppercase;font-weight:normal;}
+.s101_top-nav-element:hover,a.s101_top-nav-element:hover,#s101_top-nav ul li a:hover {color:#e2e2e2;text-decoration:none;}
+.s101_link,a.s101_link:link,a.s101_link:visited,a.s101_link:active,.s101_page_links,a.s101_page_links:link,a.s101_page_links:visited,a.s101_page_links:active,.s101_footer_nav,a.s101_footer_nav:link,a.s101_footer_nav:visited,a.s101_footer_nav:active {color:#b88b52;text-decoration:none;}
+.s101_link:hover,a.s101_link:hover,.s101_page_links:hover,a.s101_page_links:hover,.s101_footer_nav:hover,a.s101_footer_nav:hover,.s101_footer_nav:hover,a.s101_footer_nav:hover {color:#999999;text-decoration:none;}
+#s101_site-logo_text {margin-bottom:17px;font-size:34px;color:#000000;font-family:'Coda';}
