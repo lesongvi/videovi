@@ -1,0 +1,539 @@
+
+
+#s101_footer-copyright_wrapper {
+
+width: 800px;
+
+}
+
+div.jp-seek-bar_l5 {
+
+background-image: none;
+background-color: #3b6dc6;
+
+}
+
+div.jp-seek-bar.jp-seek-bar_l5 {
+
+background-image: none;
+background-color: #d4d4cf!important;
+
+}
+
+div.jp-progress.jp-progress_l5 {
+
+background-color: #3b6dc6;
+
+}
+
+body {
+
+background-image: none!important; 
+background-repeat: none!important;
+background-color: #ffffff!important;
+
+}
+
+div#s101_site-wrapper-bg {
+
+background-image: none!important; 
+background-repeat: none!important;
+background-color: #ffffff!important;
+
+
+}
+
+#s101_site-wrapper-bg {
+
+background: none;
+
+}
+
+#s101_top-nav ul li a:hover {
+
+background-color: #b88b52;
+
+}
+
+#s101_footer-copyright_wrapper {
+
+width: 600px;
+
+}
+
+#s101_client_footer_right {
+
+color: #3b6dc6;
+
+}
+
+div#s101_twitter_feed_wrapper {
+
+width: 230px;
+
+}
+
+
+
+#s101_twitter_feed_bottom_triangle {
+
+border-left: 20px solid transparent;
+border-right: 0px solid transparent;
+border-top: 20px solid #fdd16a;
+font-size: 0;
+height: 0;
+line-height: 0;
+margin-left: 182px;
+width: 0;
+
+}
+
+#s101_twitter_feed_bottom_bird {
+
+ background-image: url("https://memberdata.s3.amazonaws.com/pt/ptx2013/photos/ptx2013_photo_gal_58698_photo_377715427.png");
+    height: 30px;
+    margin-top: -10px;
+margin-left: 210px;
+    width: 36px;
+
+}
+
+#s101_page_signup #s101_twitter_feed_bottom .s101_twitter_readmore {
+
+top: -11px;
+left: -87px;
+
+}
+
+.wide_banner {
+
+display: block;
+float: left;
+margin-top: 40px;
+margin-left: 116px;
+width: 728px;
+height: 90px;
+
+}
+
+
+#s101_page_music table.mp_track_list {
+
+border-left: 1px #d2d2d2 solid;
+
+}
+
+input.form_field {
+
+background: #8fdfff;
+width: 175px;
+
+}
+
+select.form_field {
+
+xbackground: #8fdfff;
+width: 175px;
+
+}
+
+.label_signup_text {
+
+font-size: 11px;
+
+}
+
+.label_signup_link_text {
+
+font-size: 11px;
+color: #000000;
+
+}
+
+div.label_signup_form {
+
+background: #63bdfa;
+padding: 10px;
+font-family: 'Roboto' ;
+font-size: 13px;
+color: #514f4f;
+
+}
+
+.wwFormTable {
+
+color: #514f4f!important;
+
+}
+
+div.label_signup_form input.form_field {
+
+background: #ffefb6;
+
+}
+
+
+body {
+
+background-image: none;
+background-color: #ffffff;
+
+}
+
+#s101_header-wrapper {
+display: block;
+width: 100%;
+
+
+float: left;
+}
+
+#s101_header-wrapper-inner, #s101_top-nav {
+
+display: block;
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+float: none;
+
+
+
+}
+
+#s101_home_bottom {
+
+background: url('https://memberdata.s3.amazonaws.com/pt/ptx2013/photos/ptx2013_photo_gal_59759_photo_156569582.jpg') ;
+
+-webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+
+display: block;
+width: 100%!important;
+
+
+float: left;
+
+
+}
+
+
+#s101_home_bottom_inner {
+
+display: block;
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+float: none;
+
+
+
+}
+
+
+
+
+
+#s101_header-wrapper #wide_menu #s101_BorderlessWidget_0 {
+
+display: block;
+width: 100%;
+
+
+float: left;
+border-top: 2px solid #b88b52;
+border-bottom: 2px solid #b88b52;
+
+
+}
+
+#wide_banner_home {
+
+display: block;
+width: 100%;
+
+
+float: left;
+
+background: url('https://memberdata.s3.amazonaws.com/pt/ptx2013/photos/ptx2013_photo_gal_58698_photo_547342708.png') ;
+
+background-repeat: repeat-x;
+
+background-position: 100px -21px; 
+
+}
+
+div#wide_banner_home_inner {
+
+display: block;
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+float: none;
+
+}
+
+
+#wide_banner_alt {
+
+display: block;
+width: 100%;
+
+
+float: left;
+
+
+
+}
+
+div#wide_banner_alt_inner {
+
+display: block;
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+float: none;
+padding-top:40px;
+padding-bottom:30px;
+}
+
+
+
+
+.wide_banner {
+
+display: block;
+width: 100%;
+
+
+float: left;
+margin-left: 0px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+
+}
+
+div.wide_banner_inner {
+
+display: block;
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+float: none;
+
+}
+
+#s101_footer-wrapper-outer {
+
+display: block;
+width: 100%;
+
+
+float: left;
+
+margin-top: 20px;
+
+}
+
+#s101_footer-wrapper {
+display: block;
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+float: none;
+
+}
+
+#s101_top-nav-element, a.s101_top-nav-element:link, a.s101_top-nav-element:visited, a.s101_top-nav-element:active, #s101_top-nav ul li a {
+
+color: #e22b89!important;
+
+}
+
+#s101_top-nav ul li a:hover {
+
+
+background-color: #b88b52!important;
+color: #ffffff!important;
+
+}
+
+
+
+
+#s101_sn_table td {
+
+padding: 5px;
+
+}
+
+/*
+
+.s101_content_titles, a.s101_content_titles:link, a.s101_content_titles:visited, a.s101_content_titles:active {
+
+color: #1292e5!important;
+font-family: Roboto!important;
+font-weight: 400!important;
+font-size: 18px!important;
+
+}
+
+.typogr_text, .s101_general_content {
+
+color: #514f4f!important;
+font-family: Roboto!important;
+font-size: 14px!important ;
+
+}
+
+.s101_page_headings, a.s101_page_headings:link, a.s101_page_headings:visited, a.s101_page_headings:active {
+
+color: #1292e5!important;
+font-family: Oswald!important ;
+font-weight: 400!important;
+
+}
+
+.s101_link, a.s101_link:link, a.s101_link:visited, a.s101_link:active, .s101_page_links, a.s101_page_links:link, a.s101_page_links:visited, a.s101_page_links:active, .s101_footer_nav, a.s101_footer_nav:link, a.s101_footer_nav:visited, a.s101_footer_nav:active {
+
+color: #e22b89!important;
+}
+
+
+.s101_link:hover, a.s101_link:hover, .s101_page_links:hover, a.s101_page_links:hover, .s101_footer_nav:hover, a.s101_footer_nav:hover, .s101_footer_nav:hover, a.s101_footer_nav:hover {
+
+color: #999999!important;
+
+}
+
+*/
+
+div#wide_banner_home {
+
+margin-bottom: 40px;
+
+}
+
+
+div#s101_home_header_411760.s101_page_headings_app.s101_db_content_image.s101_page_headings {
+
+color: #ffffff!important;
+
+}
+
+#s101_page_music table.mp_track_list {
+
+
+}
+
+#s101_page_music .mp_track_list .pm_top_tr {
+
+
+background-color: #ffffff!important;
+
+}
+
+.jspDrag  {
+
+background: #b88b52 url(https://d3w1z0wek3ktis.cloudfront.net/images/general/drag_grab.gif) no-repeat 50% 50%!important;
+
+}
+
+#s101_client_footer_right {
+
+color: #000000!important;
+
+
+}
+
+div#s101_col1 {
+
+margin-top: -6px;
+
+}
+
+div.s101_news_archive_link {
+
+margin-top: 15px;
+
+}
+
+.home-page-main-banner {
+
+margin-left: 10px;
+
+}
+
+.s101_top-nav-element:hover, a.s101_top-nav-element:hover, #s101_top-nav ul li a:hover {
+
+font-family: Oswald!important ;
+letter-spacing: 1px!important ;
+
+}
+
+#s101_top-nav #s101_main_site_nav ul li a {
+
+color: #999999!important;
+
+}
+
+#s101_top-nav-element, a.s101_top-nav-element:link, a.s101_top-nav-element:visited, a.s101_top-nav-element:active, #s101_top-nav ul li a {
+
+font-family: Oswald!important ;
+letter-spacing: 1px!important ;
+
+}
+
+.s101_twitter_feed-content p {
+
+font-family:  Roboto!important ;
+font-size: 14px!important ;
+color: #514f4f!important ;
+
+
+}
+
+
+.s101_twitter_feed-content p a {
+
+font-family:  Roboto!important ;
+font-size: 14px!important ;
+
+}
+
+#s101_page_news #s101_twitter_feed_bottom .s101_twitter_readmore {
+
+left: -79px!important;
+
+}
+
+#s101_page_tour_archive .tour_list .pm_top_tr, #s101_page_tour_archive .mp_main_row_selected {
+
+background-color: #ffffff!important;
+
+}
+
+#s101_page_music .mp_track_list .mp_main_row_selected {
+
+background-color: #ffffff!important;
+
+}
+
+.wide_banner {
+
+margin-top: 30px;
+margin-bottom: 40px
+
+
+}
+
+div#s101_app_tour_center table {
+
+width: 100%;
+
+}
+
+
