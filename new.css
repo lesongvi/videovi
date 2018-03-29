@@ -1,0 +1,599 @@
+
+
+/* BEGIN App Backgrounds CSS */
+
+.s101_app_padding {
+
+background-color: #00a7eb!important; // Set to color of background
+display: block;
+float: left;
+
+}
+
+.s101_app_padding .s101_general_content, .s101_app_padding .typogr_text {
+
+ color: #f2f2f2; // Set to color of text
+
+}
+
+/* END app padding */
+
+
+
+
+
+#home_column1 {
+
+
+width: 640px;
+display: block;
+float: left;
+margin-right: 40px;
+
+}
+
+
+#home_column2 {
+
+width: 280px;
+display: block;
+float: left;
+margin-left: 40px;
+}
+
+
+#home_column3 {
+
+width: 350px;
+display: block;
+float: left;
+margin-right: 40px;
+
+}
+
+#home_column4 {
+
+width: 250px;
+display: block;
+float: left;
+
+}
+
+#s101_col1_top, #s101_col1_bot {
+
+display: block;
+float: left;
+width: 640px;
+
+}
+
+#s101_col1_bot_right, #s101_col1_bot_left {
+
+display: block;
+float: left;
+
+}
+
+#s101_col1 {
+
+display: block;
+float: left;
+width: 640px;
+
+}
+
+#s101_col2 {
+
+display: block;
+float: left;
+width: 280px;
+
+}
+
+#s101_music-player {
+margin-top: 0px;
+float: left;
+}
+
+#s101_facebook-like {
+float: right;
+height: 36px;
+}
+
+#s101_site-logo {
+
+margin-top: 20px;
+
+}
+
+#s101_top-nav {
+
+background: #ffffff;
+
+}
+
+.with-top-border {
+border-top: none
+}
+
+.s101_content-wrapper-fullwidth, #s101_content-wrapper-fullwidth {
+border-bottom: none;
+}
+
+tr.pm_top_tr:nth-child(2n+1) {
+
+	background: black;
+
+}
+
+
+#s101_twitter_feed_wrapper {
+    background-color: #f4f1e9;
+    background-image: none;
+    xborder-radius: 10px 10px 10px 10px;
+    height: 100%;
+    padding: 10px;
+    width: 255px;
+}
+
+#s101_twitter_feed_center {
+    color: #ffffff;
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: 12px;
+    text-align: left;
+}
+
+.s101_twitter_feed-bubble {
+    font-size: 11px;
+    width: 100%;
+margin-bottom: 10px;
+}
+
+.s101_twitter_feed-content p {
+    color: #000000;
+    margin: 0;
+}
+
+#s101_twitter_feed_bottom_triangle {
+    border-left: 0 solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #f4f1e9!important;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    margin-left: 85px;
+    width: 0;
+}
+
+#s101_twitter_feed_bottom_bird {
+    background-image: url("http://memberdata.s3.amazonaws.com/pt/ptx2013/photos/ptx2013_photo_gal_9687_photo_1862119954.png");
+    height: 31px;
+    margin-top: -10px;
+margin-left: 12px;
+    width: 54px;
+}
+
+#s101_twitter_feed_bottom_bird img {
+width: 100%;
+height: 100%;
+}
+
+.s101_twitter_post {
+color: #ffffff;
+}
+
+.s101_twitter_postdate {
+    font-weight: bold;
+}
+
+#s101_twitter_feed_bottom .s101_twitter_readmore {
+    font-family: 'Trebuchet MS';
+    font-size: 14px;
+    font-weight: bold;
+    text-align: right;
+    text-transform: uppercase;
+    position: relative;
+    top: -41px;
+    left: -17px;
+}
+
+
+/* Main nav - current page purple state */
+
+#s101_page_home #s101_top-nav ul li:nth-child(1) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+#s101_page_news #s101_top-nav ul li:nth-child(2) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+#s101_page_news_archive #s101_top-nav ul li:nth-child(2) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+#s101_page_news_item #s101_top-nav ul li:nth-child(2) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+#s101_page_tour #s101_top-nav ul li:nth-child(3) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+#s101_page_tour_archive #s101_top-nav ul li:nth-child(3) a {
+background-color: #b88b52;
+color: #ffffff!important;
+}
+
+#s101_page_tour_moreinfo #s101_top-nav ul li:nth-child(3) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+
+#s101_page_music #s101_top-nav ul li:nth-child(4) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+#s101_page_video #s101_top-nav ul li:nth-child(5) a {
+background-color: #b88b52;
+color: #ffffff!important;
+}
+
+#s101_page_store #s101_top-nav ul li:nth-child(6) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+#s101_page_about #s101_top-nav ul li:nth-child(7) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+#s101_page_contact #s101_top-nav ul li:nth-child(8) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+#s101_page_signup #s101_top-nav ul li:nth-child(9) a {
+background-color: #b88b52 !important;
+color: #ffffff!important;
+}
+
+
+/* Main nav - purple hover state */
+
+#s101_top-nav ul li a:link {
+background-color: #fff;
+}
+
+#s101_top-nav ul li a:visited {
+background-color: #fff;
+}
+
+#s101_top-nav ul li a:hover {
+background-color: #b88b52 !important;
+}
+
+#s101_top-nav ul li a:active {
+background-color: #b88b52 !important;
+}
+
+
+/* Twitter read more link style */
+
+div.s101_twitter_readmore a.s101_link {
+text-transform: lowercase;
+text-decoration: underline;
+color: #ffffff;
+}
+
+div.s101_twitter_readmore a.s101_link:hover {
+color: #93caf3;
+}
+
+
+/* menu positioning styles */
+
+#s101_top-nav #s101_main_site_nav {
+text-align: left;
+}
+
+
+/* menu item padding and margin*/
+
+#s101_top-nav #s101_main_site_nav ul li {
+padding: 0px;
+margin: 0px;
+margin-left: -5px;
+}
+
+#s101_top-nav #s101_main_site_nav ul li:first-child {
+padding: 0px;
+margin: 0px;
+margin-left: 0px;
+}
+
+
+
+/* menu item widths*/
+
+#s101_top-nav #s101_main_site_nav ul li a {
+width: 102px;
+text-align: center;
+padding: 0px;
+margin: 0px;
+}
+
+#s101_top-nav #s101_main_site_nav ul li a {
+
+padding-top: 5px;
+padding-bottom: 5px;
+
+}
+
+#s101_top-nav #s101_main_site_nav ul li:nth-child(1) a {
+width: 108px;
+}
+
+#s101_top-nav #s101_main_site_nav ul li:nth-child(2) a {
+width: 111px;
+}
+
+#s101_top-nav #s101_main_site_nav ul li:nth-child(4) a {
+width: 111px;
+}
+
+#s101_top-nav #s101_main_site_nav ul li:nth-child(7) a {
+width: 78px;
+}
+
+#s101_top-nav #s101_main_site_nav ul li:nth-child(8) a {
+width: 128px;
+}
+
+#s101_top-nav #s101_main_site_nav ul li:nth-child(9) a {
+width: 123px;
+}
+
+
+
+
+/* Tour grid row color*/
+
+#s101_page_tour .tour_list .pm_top_tr {
+background-color: #00121F;
+}
+
+#s101_page_tour_archive .tour_list .pm_top_tr, #s101_page_tour_archive .mp_main_row_selected {
+background-color: #00121F;
+}
+
+
+/* site background */
+
+body {
+background: #000 no-repeat center 0 scroll;
+}
+
+
+/* Home page - Read All News link button */
+
+
+
+/* Home page - See All dates tour link button*/
+
+#s101_page_home .tour_list_wrap .s101_tour_date_link {
+margin-top: 10px;
+}
+
+
+
+
+/* read more tweets link positioning News page, Contact page, Sign Up page */
+
+#s101_page_news #s101_twitter_feed_bottom .s101_twitter_readmore {
+left: 25px;
+}
+
+#s101_page_contact #s101_twitter_feed_bottom .s101_twitter_readmore {
+left: -80px;
+}
+
+#s101_page_signup #s101_twitter_feed_bottom .s101_twitter_readmore {
+top: -11px;
+left: -87px;
+}
+
+
+/* music page grid color */
+
+#s101_page_music .mp_track_list .pm_top_tr {
+background-color: #00121F;
+}
+
+#s101_page_music .mp_track_list .mp_main_row_selected {
+background-color: #00121F;
+}
+
+
+/* sign up page twitter app positioning */
+
+#s101_page_signup div#s101_BorderlessWidget_137856 {
+margin-left: -55px;
+}
+
+
+/* sign up page header app positioning */
+
+#s101_page_signup div#s101_signup_header_137857 {
+    margin-left: -54px;
+}
+
+
+/* Contact page twitter app positioning */
+
+#s101_page_contact div#s101_BorderlessWidget_138543 {
+margin-left: 76px;
+}
+
+
+/* Contact page header app positioning */
+
+#s101_page_contact div#s101_BorderlessWidget_138544{
+    margin-left: 77px;
+}
+
+
+/* Twitter page Tweet Feed width */
+
+#s101_page_twitter #s101_twitter_feed_center {
+width: 570px;
+}
+
+#s101_page_twitter #s101_twitter_feed_wrapper {
+width: 570px;
+}
+
+
+/* Tour Grid Tickets cell spacing */
+
+#s101_page_tour .tour_list tr .bord_top:nth-of-type(4), .tour_list tr .pad_right:nth-of-type(4) {
+    min-width: 180px;
+}
+
+#s101_page_tour .tk_pr {
+padding-right: 10px;
+}
+
+
+/* Video Page default video positioning */
+
+#s101_page_video #s101_video_header_130547 {
+margin-bottom: 17px;
+}
+
+/* Video Page default video size */
+#s101_page_video .s101_video_player {
+width: 700px;
+}
+
+#s101_page_video .s101_video_player_border {
+Â Â Â Â width:Â 700px;
+}
+
+#s101_page_video iframe {
+width: 700px;
+height: 441px;
+}
+
+
+/* Video page Default Video margin bottom */
+#s101_page_video .s101_video_player_border {
+    margin-bottom: 43px;
+}
+
+/* Video Page Video Index positioning */
+#s101_page_video .s101_right-column #s101_BorderlessWidget_0 {
+padding-left: 60px;
+}
+
+/* Video Page Video Index HEADER positioning */
+#s101_page_video .s101_right-column #s101_video_header_130557 {
+padding-left: 60px;
+}
+
+
+/* Music Page thumbnail Index positioning */
+
+#s101_page_music #column_one {
+padding-left: 80px;
+}
+
+
+/* Music Page thumbnail HEADER positioning */
+
+#s101_music_header_130556 {
+padding-left: 12px;
+}
+
+
+/* Line up album artwork with playlist title */
+#s101_page_music .s101_album_track_cover_image {
+margin-top: -8px
+}
+
+/* Splash page */
+
+body#s101_page_splash {
+background: #140C26 url("http://memberdata.s3.amazonaws.com/pt/ptx2013/photos/ptx2013_photo_gal_36658_photo_2091817120.jpg") no-repeat center 0 scroll;
+}
+
+#s101_page_splash #s101_site-wrapper-bg {
+    background-color: rgba(255,255,255,0);
+}
+
+
+/* clearfix */
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/*
+#s101_BorderlessWidget_252596 {
+position: relative;
+top: 560px;
+}
+*/
+
+
+/* Top app */
+#s101_BorderlessWidget_252596 {
+    margin-top: 608px;
+    margin-bottom: 0px!important;
+}
+
+/* Middle app */
+#s101_BorderlessWidget_252785 {
+    margin-top: 40px;
+    margin-bottom: 0px!important;
+}
+
+/* Bottom app */
+#s101_BorderlessWidget_252891 {
+margin-top: 40px;
+margin-bottom: 0px!important;
+}
+
+
+#s101_footer-menu {
+    display: none;
+}
+
+#s101_footer-copyright_wrapper {
+
+width: 800px;
+
+}
+
+
+#s101_page_splash .s101_content-wrapper-fullwidth {
+    padding-bottom: 0;
+}
+
+#bottom_wrapper #enter a.s101_link:hover {
+color: #8F7AF3!important;
+}
