@@ -1,0 +1,42 @@
+
+
+body#s101_page_tour img#s101_site-logo_text {
+
+width: 800px;
+
+}
+
+#s101_page_news #s101_twitter_feed_bottom .s101_twitter_readmore {
+
+top: -11px;
+left: -87px;
+
+}
+
+tr.pm_top_tr:nth-child(2n+1) {
+
+background: #f4f1e9;
+
+}
+
+#s101_page_tour .tour_list .pm_top_tr {
+
+
+background: #f4f1e9;
+
+
+
+}
+
+img.row_vip_but {
+
+margin-top: 5px;
+
+}
+
+#s101_sn_table img {
+
+	height: 25px!important;
+
+}
+
