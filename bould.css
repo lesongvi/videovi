@@ -1,0 +1,88 @@
+
+html, body {
+	background: # url('https://memberdata.s3.amazonaws.com/pt/ptx2013/photos/ptx2013_photo_gal_33347_photo_1608476684.jpg') no-repeat center center fixed; 
+
+	-webkit-background-size: cover; 
+
+	-moz-background-size: cover; 
+
+	-o-background-size: cover; 
+
+	background-size: cover; 
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+src='https://memberdata.s3.amazonaws.com/pt/ptx2013/photos/ptx2013_photo_gal_33347_photo_1608476684.jpg',
+sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(
+src='https://memberdata.s3.amazonaws.com/pt/ptx2013/photos/ptx2013_photo_gal_33347_photo_1608476684.jpg',
+sizingMethod='scale')";
+	} 
+#s101_site-wrapper-bg {
+background: #00223C;
+background-color: rgba(0,34,60,0.55);
+}
+
+#s101_main_site_nav {
+text-align: center ;
+}
+
+#s101_main_site_nav a {
+}
+
+.s101_subnav {
+}
+
+.s101_subnav a:hover {
+}
+
+#s101_site-logo {
+}
+
+#s101_site-logo_text {
+width: 819px ;
+}
+
+#s101_site-wrapper {
+margin-top: 0px ;
+}
+
+#s101_page_video #s101_header-wrapper {
+margin-top: 0px ;
+}
+
+.s101_db_content_image img {
+border-style: solid ; 
+border-color: #000000 ; 
+border-width: 1 ; 
+}
+
+#video_column1 .s101_BorderlessWidget, #video_column2 .s101_BorderlessWidget, #video_column3 .s101_BorderlessWidget, #video_column4 .s101_BorderlessWidget, #video_column5 .s101_BorderlessWidget, #video_column6 .s101_BorderlessWidget, #s101_side_menu_apps .s101_BorderlessWidget, .s101_full_page_column .s101_BorderlessWidget, .s101_main_column .s101_BorderlessWidget, .s101_right-column .s101_BorderlessWidget, .s101_left-column .s101_BorderlessWidget {
+margin-bottom: 15px;
+}
+
+div[rel=site_header] {margin-bottom: 0px;
+}
+
+#s101_site-fullwidth-photo img, .s101_db_content_image .large {
+border-style: solid ; 
+border-color: #000000 ; 
+border-width: 5 ; 
+}
+
+.suboptions .s101_db_content_image img, .s101_db_content_image_small, .suboptions .s101_db_content_image_small, .s101_db_content_image .small {
+border-style: solid ; 
+border-color: #000000 ; 
+border-width: 1 ; 
+}
+
+div.s101_main_toolbar {
+z-index: 900;
+}
+
+.jScrollPaneDrag {
+background: #333333 url(https://d3w1z0wek3ktis.cloudfront.net/images/general/drag_grab.gif) no-repeat 50% 50%;
+}
+
+.s101_signup_form_reverse {
+background: #af3110;
+}
+
